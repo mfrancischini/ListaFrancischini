@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+section {
+    height: 100px;
+    background-color: #F3F3F3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.title-header {
+    font-size: 20px;
+    font-weight: bold;
+    color: #c04811;
+    text-align: center;
+    margin-top: 10px;
+}
